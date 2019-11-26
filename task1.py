@@ -1,3 +1,7 @@
+#
+#
+#
+#
 x=float(input('x : '))
 a=float(input('a : '))
 n=int(input('n : '))
