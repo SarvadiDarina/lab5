@@ -1,8 +1,8 @@
 from math import log
 
 exactness = float(input('Введіть точність : '))
-a = float(input('Введіть а: '))
-x = float(input('Введіть х: '))
+a = float(input('Введіть а = '))
+x = float(input('Введіть х = '))
 suma = 1
 n = 1
 f = 1
